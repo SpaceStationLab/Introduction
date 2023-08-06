@@ -1,8 +1,8 @@
 <div align="center">
-        <img width="100%" alt="image" src="https://github.com/pdy1207/doyoung-dev/assets/110442250/b7795e5b-f040-48ed-ab68-094ffcd16f94">
+        <img width="100%" alt="image" src="https://github.com/DoyoungDev/Introduction/assets/110442250/75dd3943-9ff6-4ab5-b880-a7e8a4002400">
 </div>
 <div align="center">
-        <img width="100%" alt="image" src="https://github.com/pdy1207/doyoung-dev/assets/110442250/8b9ff151-2d6e-4d1b-a8be-722480beb41f">
+        <img width="100%" alt="image" src="https://github.com/DoyoungDev/Introduction/assets/110442250/399c54df-5fb3-4a1c-ba31-0a9fd023d3c5">
 </div>
 
 
