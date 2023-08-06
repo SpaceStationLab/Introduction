@@ -41,7 +41,7 @@ I manage sources and store and manage the things I want to produce.
 
 - No math or English required
 - There is no specific time limit for
-- I don't need membership fees, but I try to have a meeting once a month. **housing meeting**
+- I don't need membership fees, but I try to have a meeting once a month. **work from home**
 - Show off your portfolio **I like something simple**
 - Whether it's an app or web, it's good if you come in for the purpose of launching or servicing, but a proactive attitude or a steady attitude is more important.
 - Would you like to go on a journey with me?
