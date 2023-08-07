@@ -1,10 +1,9 @@
 <div align="center">
-        <img width="100%" alt="image" src="https://github.com/DoyoungDev/Introduction/assets/110442250/75dd3943-9ff6-4ab5-b880-a7e8a4002400">
+        <img width="100%" alt="image" src="https://github.com/DoyoungDev/Introduction/assets/110442250/5158cb79-807f-43c2-a861-1dc0017ac717">
 </div>
 <div align="center">
-        <img width="100%" alt="image" src="https://github.com/DoyoungDev/Introduction/assets/110442250/399c54df-5fb3-4a1c-ba31-0a9fd023d3c5">
+        <img width="100%" alt="image" src="https://github.com/DoyoungDev/Introduction/assets/110442250/79faf530-3c34-4bee-863f-b21a9478c533">
 </div>
-
 
 
 ## Web Development Team
