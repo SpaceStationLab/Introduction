@@ -77,6 +77,7 @@ I manage sources and store and manage the things I want to produce.
 ![android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=fff)
 ![flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
 ![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=fff) 
 
 
 
