@@ -20,7 +20,8 @@
 
 모든 개발관련된 지식을 기억할 수 없기 때문에 깃허브를 통해서 관련 소스를 본다던가  <br>
 예를들어 관리자페이지가 필요하면 시간은 없고 얼른 제작을 해야한다면 디자인에 관해서는 오픈소스를 활용한다던가 그에 반대로 문법이 기억이 안나다면 해당 회사 페이지에 들어가서 소스참고를 해본다던가 하며 활용하고있습니다. <br>
-그 외 저만의 제작된 프로젝트에 관련해서도 소스관리 및 제작하고싶은것들을 저장하고 관리하고 있습니다
+그 외 저만의 제작된 프로젝트에 관련해서도 소스관리 및 제작하고싶은것들을 저장하고 관리하고 있습니다 <br>
+저와 함께하고 싶으시면 [여기](https://parkdoyoung98.tistory.com/entry/%EC%A0%80%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A5%BC-%EA%B5%AC%ED%95%A9%EB%8B%88%EB%8B%A4) 를 참고해주시기 바라겠습니다 모든 저장소는 **Private** 으로서 진행됩니다.
 
 ```
 Hello, my name is Park Doyoung. Another name is "Earth". Many people live on Earth, and we also live among people.
