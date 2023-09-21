@@ -5,14 +5,13 @@
         <img width="100%" alt="image" src="https://github.com/DoyoungDev/Introduction/assets/110442250/79faf530-3c34-4bee-863f-b21a9478c533">
 </div>
 
-
 ## Web Development Team
 
-|      박도영       |  부매니저 |
-| :------------------------------------------------------------------------------: |  :------------------------------------------------------------------------------: | 
-|   <img width="200" src="https://github.com/pdy1207/Vuebangapp/assets/110442250/ca8ea844-b2cb-43bf-953c-45adc92ec459" />    |  <img width="200" src="https://avatars.githubusercontent.com/u/119770763?s=400&u=9636c5916d7a7b72df3e082991cb2f52f86addef&v=4" />   |
-|   [@pdy1207](https://github.com/pdy1207)   | [@SunDev](https://github.com/sunbodydev)  |
-| Web Dev | Assistant Manager |
+|INFINITETECH |      박도영       |  부매니저 |
+|:------------------------------------------------------------------------------:| :------------------------------------------------------------------------------: |  :------------------------------------------------------------------------------: | 
+|<img width="200" src="https://github.com/SpaceStationLab/Introduction/assets/110442250/2835fa72-acdb-445c-93bf-395e10461202" /> |   <img width="200" src="https://github.com/pdy1207/Vuebangapp/assets/110442250/ca8ea844-b2cb-43bf-953c-45adc92ec459" />    |  <img width="200" src="https://avatars.githubusercontent.com/u/119770763?s=400&u=9636c5916d7a7b72df3e082991cb2f52f86addef&v=4" />   |
+||   [@pdy1207](https://github.com/pdy1207)   | [@SunDev](https://github.com/sunbodydev)  |
+|*Company*| Web Dev | Assistant Manager |
 
 ## Introduction
 안녕하세요 제 이름은 박도영 입니다. 또 다른 이름은 "지구" 입니다. 지구에서는 여러 사람이 살고있고 저희 또한 사람속에 살고 있습니다.  <br>
@@ -82,8 +81,10 @@ I manage sources and store and manage the things I want to produce.
 
 ## ETC
 
+
+
 <div align="center">
-        <img width="45%"alt="image" src="https://github.com/DoyoungDev/Introduction/assets/110442250/4aca635f-90b6-4046-acef-aed2c1949926">
+        <img width="35%"alt="image" src="https://github.com/DoyoungDev/Introduction/assets/110442250/4aca635f-90b6-4046-acef-aed2c1949926">
 </div>
 
 
