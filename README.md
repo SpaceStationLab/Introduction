@@ -7,9 +7,10 @@
 
 ## Web Development Team
 
+
 |INFINITETECH |      박도영       |  부매니저 |
 |:------------------------------------------------------------------------------:| :------------------------------------------------------------------------------: |  :------------------------------------------------------------------------------: | 
-|<img width="200" src="https://github.com/SpaceStationLab/Introduction/assets/110442250/2835fa72-acdb-445c-93bf-395e10461202" /> |   <img width="200" src="https://github.com/pdy1207/Vuebangapp/assets/110442250/ca8ea844-b2cb-43bf-953c-45adc92ec459" />    |  <img width="200" src="https://avatars.githubusercontent.com/u/119770763?s=400&u=9636c5916d7a7b72df3e082991cb2f52f86addef&v=4" />   |
+|<img width="200" src="https://github.com/SpaceStationLab/Introduction/assets/110442250/502b65ed-33d8-423e-878b-ffb28ab8d0d4" /> |   <img width="200" src="https://github.com/pdy1207/Vuebangapp/assets/110442250/ca8ea844-b2cb-43bf-953c-45adc92ec459" />    |  <img width="200" src="https://avatars.githubusercontent.com/u/119770763?s=400&u=9636c5916d7a7b72df3e082991cb2f52f86addef&v=4" />   |
 ||   [@pdy1207](https://github.com/pdy1207)   | [@SunDev](https://github.com/sunbodydev)  |
 |*Company*| Web Dev | Assistant Manager |
 
